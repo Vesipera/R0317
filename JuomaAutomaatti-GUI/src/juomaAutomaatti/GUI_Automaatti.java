@@ -40,11 +40,10 @@ public class GUI_Automaatti extends JFrame {
 
 	// Luokkamuuttujat esitellään täällä jotta komponentteihin 
 	// voidaan viitata mistä tahansa luokan sisältä
-
-	JPanel contentPane;
-	JLabel coffeeAmount;	// JLabelit esitelty täällä, jotta kaikki niihin liittyvä
-	JLabel teaAmount;		// toiminnallisuus toimii
-	JLabel cocoaAmount;
+	private JPanel contentPane;
+	private JLabel coffeeAmount;	// JLabelit esitelty täällä, jotta kaikki niihin liittyvä
+	private JLabel teaAmount;		// toiminnallisuus toimii
+	private JLabel cocoaAmount;
 
 	/**
 	 * Main-metodi, joka käynnistää sovelluksen
