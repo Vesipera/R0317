@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#button1 {
+	-fx-graphic: url('../img/coffee.jpg');
+}
+
+#button2 {
+	-fx-graphic: url('../img/tea.jpg');
+}
+
+#button3 {
+	-fx-graphic: url('../img/cocoa.jpg');
+}
+
+#result1 {
+	-fx-padding: 60 0 0 0;
+}
+
+#result2 {
+	-fx-padding: 60 0 0 0;
+}
+
+#result3 {
+	-fx-padding: 60 0 0 0;
+}
+
+#label1 {
+	-fx-padding: 0 0 0 80;
+}
+
+#label2 {
+	-fx-padding: 0 0 0 80;
+}
+
+#label3 {
+	-fx-padding: 0 0 0 80;
+}
